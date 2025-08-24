@@ -7,7 +7,9 @@ It combines raw flight datasets (Business & Economy class), cleans the data, and
 The final output is a structured dataset that can be used for predictive modeling (e.g., predicting flight prices).
 
 Link to the updated excel sheet:- https://1drv.ms/x/c/b0666c134e53ce77/ER6bxSfUuI5BjEu9j05ry7UBpN003LcSfFjwWw-cfJ7R9w?e=xhL0vg
-Steps Covered
+
+
+# Steps Covered
 
 EDA (Exploratory Data Analysis)
 Checked dataset shape, dtypes, missing values
